@@ -1,5 +1,6 @@
 # ColorSlider
-Color Slider project that uses JavaFx to fill the color in the box using RGB
+
+This Color Slider Apllicaiton was created for my Java course. Applicacation uses JavaFx to fill the color in the box using RGB slider.
 
 
 ![](colorslider.PNG)
